@@ -1,0 +1,19 @@
+h1{
+    color:red;
+}
+/**{
+  border:solid
+}*/
+.header{
+  background-color: rgb(128,128,128);
+}
+.middlepart{
+  background-color: rgb(255,128,128);
+}
+.intro{
+  background-color: #00ffff;
+}
+.games{
+  background-color: #ffff00;
+}
+
